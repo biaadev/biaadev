@@ -1,6 +1,5 @@
 ### Ei, você pode me chamar de Biah!
 
-<img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left">
 😄 &nbsp; Pronouns: She/Her
